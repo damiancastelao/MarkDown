@@ -4,6 +4,6 @@
 
 #### Cuartonivel
 
-[Buscador](www.google.com)
+[Buscador](http://www.google.com)
 
 > Text that is a quote
