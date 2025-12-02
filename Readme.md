@@ -1,4 +1,4 @@
-# Un titulo principal
+# Un título principal
 
 ## un subtitulo
 
