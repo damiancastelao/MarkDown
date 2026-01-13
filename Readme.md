@@ -1,4 +1,4 @@
-# Un título principal
+# Un título principal muy corto
 
 ## un subtitulo
 
