@@ -1,7 +1,9 @@
-# Un título MAIN principal muy corto
+# Un título RAMA1 principal muy corto
 # Crear titulo y subtitulo
 
 MAIN2
+
+RAMA2
 
 ## un subtitulo
 
