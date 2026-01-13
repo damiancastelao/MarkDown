@@ -1,4 +1,4 @@
-# Un título principal muy corto
+# Un título MAIN principal muy corto
 # Crear titulo y subtitulo
 
 ## un subtitulo
