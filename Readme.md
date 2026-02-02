@@ -27,7 +27,14 @@ RAMA2
 
 [Maripo](imagenes/mariposa.txt)
 
-![Yoda](imagenes/yoda.jpg)
+```
+$ ps aux
+$ ls
+```
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 > Text that is a quote
