@@ -38,3 +38,4 @@ $ ls
 | git diff | Show file differences that haven't been staged |
 
 > Text that is a quote
+> This is new
